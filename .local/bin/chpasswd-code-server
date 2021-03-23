@@ -1,0 +1,4 @@
+#!/bin/bash
+set -u
+sed -i "s/password:.*/password: \"${1}\"/g" /home/cloud_user/.config/code-server/config.yaml
+sudo systemctl restart code-server@cloud_user

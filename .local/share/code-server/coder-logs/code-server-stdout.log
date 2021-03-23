@@ -1,0 +1,28 @@
+[2021-03-15T19:47:43.878Z] info  code-server 3.8.0 c4610f7829701aadb045d450013b84491c30580d
+[2021-03-15T19:47:43.879Z] info  Using user-data-dir ~/.local/share/code-server-user-data
+[2021-03-15T19:47:43.910Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-03-15T19:47:43.910Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-03-15T19:47:43.910Z] info    - Authentication is enabled
+[2021-03-15T19:47:43.910Z] info      - Using password from ~/.config/code-server/config.yaml
+[2021-03-15T19:47:43.910Z] info    - Using certificate for HTTPS: ~/.config/code-server/cert.pem
+[2021-03-15T20:00:38.639Z] info  code-server 3.8.0 c4610f7829701aadb045d450013b84491c30580d
+[2021-03-15T20:00:38.641Z] info  Using user-data-dir ~/.local/share/code-server-user-data
+[2021-03-15T20:00:38.716Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-03-15T20:00:38.716Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-03-15T20:00:38.716Z] info    - Authentication is enabled
+[2021-03-15T20:00:38.716Z] info      - Using password from ~/.config/code-server/config.yaml
+[2021-03-15T20:00:38.716Z] info    - Using certificate for HTTPS: ~/.config/code-server/cert.pem
+[2021-03-15T20:03:01.683Z] info  code-server 3.8.0 c4610f7829701aadb045d450013b84491c30580d
+[2021-03-15T20:03:01.684Z] info  Using user-data-dir ~/.local/share/code-server-user-data
+[2021-03-15T20:03:02.576Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-03-15T20:03:02.577Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-03-15T20:03:02.577Z] info    - Authentication is enabled
+[2021-03-15T20:03:02.577Z] info      - Using password from ~/.config/code-server/config.yaml
+[2021-03-15T20:03:02.577Z] info    - Using certificate for HTTPS: ~/.config/code-server/cert.pem
+[2021-03-23T17:15:22.961Z] info  code-server 3.8.0 c4610f7829701aadb045d450013b84491c30580d
+[2021-03-23T17:15:22.963Z] info  Using user-data-dir ~/.local/share/code-server-user-data
+[2021-03-23T17:15:23.167Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-03-23T17:15:23.167Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-03-23T17:15:23.167Z] info    - Authentication is enabled
+[2021-03-23T17:15:23.167Z] info      - Using password from ~/.config/code-server/config.yaml
+[2021-03-23T17:15:23.167Z] info    - Using certificate for HTTPS: ~/.config/code-server/cert.pem

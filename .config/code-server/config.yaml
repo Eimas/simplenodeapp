@@ -1,0 +1,9 @@
+bind-addr: 0.0.0.0:8080
+auth: password
+disable-telemetry: true
+disable-update-check: true
+cert: /home/cloud_user/.config/code-server/cert.pem
+cert-key: /home/cloud_user/.config/code-server/key.pem
+extensions-dir: /home/cloud_user/.local/share/code-server-extensions
+user-data-dir: /home/cloud_user/.local/share/code-server-user-data
+password: CHANGE_THIS_PASSWORD
